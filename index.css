@@ -1,0 +1,9 @@
+.center-div{
+    margin: 60px auto;
+    width: 600px;
+}
+
+.content{
+    max-height: 30px;
+    overflow: hidden;
+}
